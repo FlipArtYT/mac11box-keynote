@@ -1,12 +1,12 @@
-# Mac11Box Keynote Theme
+## Mac11Box Keynote Theme
 macOS 11 like Keynote Theme for you to use in your presentations.
 
-# Features
+## Features
 - Includes a total of 14 slide layouts (Click [here](#Layouts) to see every layout)
 - Menu bar and dock changes depending on slide layout
 - All of the icons are hand made
 
-# Setup
+## Setup
 After you downloaded the `Mac11Box.kth` file, make sure to follow these steps:
 <ol>
   <li>Open the file and press "Add to theme select" when it prompts you to</li>
@@ -14,7 +14,9 @@ After you downloaded the `Mac11Box.kth` file, make sure to follow these steps:
   <li>To get the window animations, click on a slide in slide control and choose "Transitions", then click a slide on the slide control again and choose "All". Now choose the "Magic" Transition and it should apply it to all of the slides.</li>
 </ol>
 
-# Layouts
+## Layouts
 Here is a gallery of all of the slide layouts:
 
+# Title
+![Picture of the "Title" Layout](/assets/Title.png)
 
